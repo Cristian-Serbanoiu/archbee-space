@@ -17,6 +17,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
         - [ ] **ENGINE MOUNTING**
           - [ ] **STRUCTURAL ATTACHMENT**
             - [ ] **BOLT TORQUE VERIFICATION**
+            - [ ] **BOLT TORQUE VERIFICATION**
               - [ ] **PRIMARY BOLTS**
                 - [ ] **BOLT 1: 150 ft-lbs**
                 - [ ] **BOLT 2: 150 ft-lbs**
