@@ -16,6 +16,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
       - [ ] **MERLIN ENGINE SETUP**
         - [ ] **ENGINE MOUNTING**
           - [ ] **STRUCTURAL ATTACHMENT**
+          - [ ] **STRUCTURAL ATTACHMENT**
             - [ ] **BOLT TORQUE VERIFICATION**
             - [ ] **BOLT TORQUE VERIFICATION**
               - [ ] **PRIMARY BOLTS**
