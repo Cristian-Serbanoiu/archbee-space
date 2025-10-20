@@ -1,11 +1,11 @@
-# ALL BLOCKS
-
 # Heading 1
+
+# ALL BLOCKS
 
 :::ExpandableHeading
 # Expandable Heading 1
 
-Expandable Heading 1 Description
+Expandable Heading 1 Description1
 :::
 
 ## Heading 2
