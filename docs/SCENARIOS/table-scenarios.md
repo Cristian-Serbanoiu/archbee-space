@@ -405,8 +405,11 @@
     <td lightBackgroundColor="#FEF3C7" darkBackgroundColor="#C2410C" align="left">
       <p>Backlog Grooming</p>
     </td>
-    <td lightBackgroundColor="#F9FAFB" darkBackgroundColor="#1F2937" align="left">
-      <p> </p>
+    <!-- <td lightBackgroundColor="#F9FAFB" darkBackgroundColor="#1F2937" align="left">
+      <p></p>
+    </td> -->
+    <td align="left">
+      <p></p>
     </td>
   </tr>
   <tr>
