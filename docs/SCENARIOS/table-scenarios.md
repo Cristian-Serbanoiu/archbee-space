@@ -469,4 +469,54 @@
 </table>
 
 
+# TABLE BUT EDITED IN VSCODE
+
+<table isTableHeaderOn="true" columnWidths="220,220,221">
+  <tr>
+    <td darkBackgroundColor="#B91C1C" lightBackgroundColor="#EF4444">
+      <p></p>
+    </td>
+    <td>
+      <p></p>
+    </td>
+    <td>
+      <p></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p></p>
+    </td>
+    <td>
+      <p>this is a filled cell</p>
+    </td>
+    <td lightBackgroundColor="#A5F3FC">
+      <p></p>
+    </td>
+  </tr>
+  <tr>
+    <td lightBackgroundColor="#C2410C">
+      <p></p>
+    </td>
+    <td darkBackgroundColor="#14B8A6" lightBackgroundColor="#14B8A6">
+      <p></p>
+    </td>
+    <td darkBackgroundColor="#BBF7D0">
+      <p></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p></p>
+    </td>
+    <td>
+      <p></p>
+    </td>
+    <td>
+      <p></p>
+    </td>
+  </tr>
+</table>
+
+
 
