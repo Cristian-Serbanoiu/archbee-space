@@ -1,119 +1,834 @@
+---
+title: TABLE SCENARIOS NEW
+slug: table-scenarios-new
+createdAt: 2025-01-28T10:00:00.000Z
+updatedAt: 2025-01-28T10:00:00.000Z
+---
+
 # TABLE SCENARIOS
 
-# 📊 DATA ANALYSIS SCENARIOS
+## BASIC TABLE WITH HEADERS
 
-## 🏢 COMPANY PERFORMANCE DASHBOARD
+<table isTableHeaderOn="true" columnWidths="200,200,200,200">
 
-### QUARTERLY REVENUE BREAKDOWN
+  <tr>
 
-| DEPARTMENT | Q1 REVENUE     | Q2 REVENUE     | Q3 REVENUE     | Q4 REVENUE      | TOTAL           | GROWTH     |
-| ---------- | -------------- | -------------- | -------------- | --------------- | --------------- | ---------- |
-| Sales      | $2,450,000     | $2,680,000     | $2,890,000     | $3,120,000      | $11,140,000     | +27.3%     |
-| Marketing  | $1,200,000     | $1,350,000     | $1,480,000     | $1,620,000      | $5,650,000      | +35.0%     |
-| Product    | $3,100,000     | $3,450,000     | $3,780,000     | $4,100,000      | $14,430,000     | +32.3%     |
-| Support    | $800,000       | $920,000       | $1,050,000     | $1,180,000      | $3,950,000      | +47.5%     |
-| **TOTAL**  | **$7,550,000** | **$8,400,000** | **$9,200,000** | **$10,020,000** | **$35,170,000** | **+32.7%** |
+    <td align="center">
 
-### EMPLOYEE PERFORMANCE METRICS
+      <p><strong>Product</strong></p>
 
-| EMPLOYEE       | DEPARTMENT | TARGET     | ACHIEVED   | PERFORMANCE | BONUS   | RATING |
-| -------------- | ---------- | ---------- | ---------- | ----------- | ------- | ------ |
-| Sarah Johnson  | Sales      | $500K      | $650K      | 130%        | $15,000 | ⭐⭐⭐⭐⭐  |
-| Mike Chen      | Marketing  | 50 leads   | 78 leads   | 156%        | $8,500  | ⭐⭐⭐⭐⭐  |
-| Lisa Rodriguez | Product    | 3 features | 5 features | 167%        | $12,000 | ⭐⭐⭐⭐⭐  |
-| David Kim      | Support    | 95% CSAT   | 98% CSAT   | 103%        | $5,000  | ⭐⭐⭐⭐   |
-| Emma Wilson    | Sales      | $400K      | $420K      | 105%        | $2,000  | ⭐⭐⭐⭐   |
-| Alex Thompson  | Marketing  | 40 leads   | 35 leads   | 88%         | $0      | ⭐⭐⭐    |
+    </td>
 
-## 🏠 REAL ESTATE MARKET ANALYSIS
+    <td align="center">
 
-### PROPERTY COMPARISON MATRIX
+      <p><strong>Price</strong></p>
 
-| PROPERTY     | LOCATION      | BEDROOMS | BATHROOMS | SQ FT | PRICE      | PRICE/SQ FT | YEAR BUILT | CONDITION |
-| ------------ | ------------- | -------- | --------- | ----- | ---------- | ----------- | ---------- | --------- |
-| Villa Sunset | Beverly Hills | 5        | 4.5       | 4,200 | $2,850,000 | $679        | 2018       | Excellent |
-| Modern Loft  | Downtown LA   | 2        | 2         | 1,800 | $1,200,000 | $667        | 2020       | Excellent |
-| Family Home  | Pasadena      | 4        | 3         | 2,800 | $1,650,000 | $589        | 2015       | Good      |
-| Beach House  | Malibu        | 3        | 2.5       | 2,200 | $3,200,000 | $1,455      | 2019       | Excellent |
-| Starter Home | Burbank       | 3        | 2         | 1,600 | $850,000   | $531        | 2010       | Fair      |
+    </td>
 
-### INVESTMENT PROPERTY ANALYSIS
+    <td align="center">
 
-| PROPERTY          | PURCHASE PRICE | MONTHLY RENT | ANNUAL RENT | CAP RATE | CASH FLOW | ROI   |
-| ----------------- | -------------- | ------------ | ----------- | -------- | --------- | ----- |
-| Downtown Condo    | $450,000       | $3,200       | $38,400     | 8.5%     | $1,800    | 12.3% |
-| Suburban House    | $320,000       | $2,400       | $28,800     | 9.0%     | $1,200    | 15.2% |
-| Apartment Complex | $1,200,000     | $8,500       | $102,000    | 8.5%     | $4,200    | 11.8% |
-| Commercial Space  | $800,000       | $6,000       | $72,000     | 9.0%     | $3,000    | 13.5% |
-| Vacation Rental   | $650,000       | $4,500       | $54,000     | 8.3%     | $2,100    | 9.8%  |
+      <p><strong>Stock</strong></p>
 
-## 🎓 UNIVERSITY COURSE CATALOG
+    </td>
 
-### COMPUTER SCIENCE CURRICULUM
+    <td align="center">
 
-| COURSE CODE | COURSE NAME                 | CREDITS | PREREQUISITES  | INSTRUCTOR    | SCHEDULE        | ENROLLMENT |
-| ----------- | --------------------------- | ------- | -------------- | ------------- | --------------- | ---------- |
-| CS101       | Introduction to Programming | 3       | None           | Dr. Smith     | MWF 9:00-10:00  | 45/50      |
-| CS201       | Data Structures             | 3       | CS101          | Prof. Johnson | TTh 10:00-11:30 | 38/40      |
-| CS301       | Algorithms                  | 3       | CS201          | Dr. Williams  | MWF 11:00-12:00 | 35/40      |
-| CS401       | Database Systems            | 3       | CS201          | Prof. Brown   | TTh 2:00-3:30   | 42/45      |
-| CS501       | Machine Learning            | 3       | CS301, MATH201 | Dr. Davis     | MWF 1:00-2:00   | 28/30      |
+      <p><strong>Status</strong></p>
 
-### GRADING SCALE & REQUIREMENTS
+    </td>
 
-| GRADE | PERCENTAGE | GPA POINTS | DESCRIPTION    | REQUIREMENTS                         |
-| ----- | ---------- | ---------- | -------------- | ------------------------------------ |
-| A+    | 97-100%    | 4.0        | Exceptional    | 95%+ attendance, perfect assignments |
-| A     | 93-96%     | 4.0        | Excellent      | 90%+ attendance, excellent work      |
-| A-    | 90-92%     | 3.7        | Very Good      | 85%+ attendance, very good work      |
-| B+    | 87-89%     | 3.3        | Good           | 80%+ attendance, good work           |
-| B     | 83-86%     | 3.0        | Satisfactory   | 75%+ attendance, satisfactory work   |
-| B-    | 80-82%     | 2.7        | Below Average  | 70%+ attendance, needs improvement   |
-| C+    | 77-79%     | 2.3        | Poor           | 65%+ attendance, poor work           |
-| C     | 73-76%     | 2.0        | Unsatisfactory | 60%+ attendance, unsatisfactory work |
-| F     | 0-72%      | 0.0        | Failing        | Below minimum requirements           |
+  </tr>
 
-## 🏥 HEALTHCARE PATIENT TRACKING
+  <tr>
 
-### PATIENT VITAL SIGNS MONITORING
+    <td align="left">
 
-| PATIENT ID | NAME          | AGE | TEMPERATURE | BLOOD PRESSURE | HEART RATE | OXYGEN SAT | STATUS     |
-| ---------- | ------------- | --- | ----------- | -------------- | ---------- | ---------- | ---------- |
-| P001       | John Smith    | 45  | 98.6°F      | 120/80         | 72 bpm     | 98%        | Stable     |
-| P002       | Mary Johnson  | 67  | 101.2°F     | 140/90         | 88 bpm     | 95%        | Monitoring |
-| P003       | Robert Davis  | 52  | 99.1°F      | 110/70         | 65 bpm     | 99%        | Stable     |
-| P004       | Lisa Wilson   | 34  | 100.5°F     | 130/85         | 95 bpm     | 96%        | Alert      |
-| P005       | Michael Brown | 78  | 98.9°F      | 150/95         | 82 bpm     | 97%        | Monitoring |
+      <p>Laptop Pro</p>
 
-### MEDICATION SCHEDULE
+    </td>
 
-| MEDICATION  | DOSAGE | FREQUENCY         | PATIENT | START DATE | END DATE   | STATUS    |
-| ----------- | ------ | ----------------- | ------- | ---------- | ---------- | --------- |
-| Metformin   | 500mg  | Twice daily       | P001    | 2024-01-15 | Ongoing    | Active    |
-| Lisinopril  | 10mg   | Once daily        | P002    | 2024-02-01 | Ongoing    | Active    |
-| Ibuprofen   | 400mg  | Every 6 hours     | P003    | 2024-01-20 | 2024-01-27 | Completed |
-| Amoxicillin | 500mg  | Three times daily | P004    | 2024-01-25 | 2024-02-01 | Active    |
-| Warfarin    | 5mg    | Once daily        | P005    | 2024-01-10 | Ongoing    | Active    |
+    <td align="right">
 
-## 🚗 AUTOMOTIVE SERVICE RECORDS
+      <p>$1,299</p>
 
-### VEHICLE MAINTENANCE SCHEDULE
+    </td>
 
-| VEHICLE | MAKE   | MODEL   | YEAR | MILEAGE                                | LAST SERVICE | NEXT SERVICE | STATUS   |
-| ------- | ------ | ------- | ---- | -------------------------------------- | ------------ | ------------ | -------- |
-| V001    | Toyota | Camry   | 2020 | 45,000                                 | 2024-01-15   | 2024-04-15   | Due Soon |
-| V002    | Honda  | Civic   | 2019 | 52,000<br />2024-01-20<br />2024-04-20 | Current      |              |          |
-| V003    | Ford   | F-150   | 2021 | 38,000                                 | 2024-01-10   | 2024-04-10   | Current  |
-| V004    | BMW    | X5      | 2022 | 25,000                                 | 2024-01-25   | 2024-04-25   | Current  |
-| V005    | Tesla  | Model 3 | 2023 | 15,000                                 | 2024-01-30   | 2024-04-30   | Current  |
+    <td align="center">
 
-### SERVICE COST ANALYSIS
+      <p>45</p>
 
-| SERVICE TYPE  | LABOR COST | PARTS COST | TOTAL COST | DURATION                                                   | PROFIT MARGIN |
-| ------------- | ---------- | ---------- | ---------- | ---------------------------------------------------------- | ------------- |
-| Oil Change    | $25        | $15        | $40        | 30 min<br />2 hours<br />4 hours<br />6 hours<br />3 hours | 25%           |
-| Brake Service | $150       | $200       | $350       | 30%                                                        |               |
-| Transmission  | $300       | $500       | $800       | 35%                                                        |               |
-| Engine Repair | $400       | $600       | $1,000     | 40%                                                        |               |
-| Electrical    | $200       | $150       | $350       | 28%                                                        |               |
+    </td>
 
+    <td align="center" lightBackgroundColor="#22C55E">
+
+      <p>In Stock</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left">
+
+      <p>Keyboard Wireless</p>
+
+    </td>
+
+    <td align="right">
+
+      <p>$89</p>
+
+    </td>
+
+    <td align="center">
+
+      <p>0</p>
+
+    </td>
+
+    <td align="center" lightBackgroundColor="#EF4444">
+
+      <p>Out of Stock</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left">
+
+      <p>Mouse Gaming</p>
+
+    </td>
+
+    <td align="right">
+
+      <p>$59</p>
+
+    </td>
+
+    <td align="center">
+
+      <p>12</p>
+
+    </td>
+
+    <td align="center" lightBackgroundColor="#F59E0B">
+
+      <p>Low Stock</p>
+
+    </td>
+
+  </tr>
+
+</table>
+
+## TABLE WITH ROW SPAN
+
+<table isTableHeaderOn="true" columnWidths="250,250,250">
+
+  <tr>
+
+    <td align="center">
+
+      <p><strong>Department</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Employee</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Role</strong></p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left" rowSpan="3" lightBackgroundColor="#3B82F6">
+
+      <p><strong>Engineering</strong></p>
+
+    </td>
+
+    <td align="left">
+
+      <p>John Doe</p>
+
+    </td>
+
+    <td align="left">
+
+      <p>Senior Developer</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left">
+
+      <p>Jane Smith</p>
+
+    </td>
+
+    <td align="left">
+
+      <p>Frontend Developer</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left">
+
+      <p>Mike Johnson</p>
+
+    </td>
+
+    <td align="left">
+
+      <p>Backend Developer</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left" rowSpan="2" lightBackgroundColor="#8B5CF6">
+
+      <p><strong>Design</strong></p>
+
+    </td>
+
+    <td align="left">
+
+      <p>Sarah Williams</p>
+
+    </td>
+
+    <td align="left">
+
+      <p>UI Designer</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left">
+
+      <p>Tom Brown</p>
+
+    </td>
+
+    <td align="left">
+
+      <p>UX Designer</p>
+
+    </td>
+
+  </tr>
+
+</table>
+
+## TABLE WITH COLUMN SPAN AND COLORS
+
+<table isTableHeaderOn="true" columnWidths="200,200,200,200">
+
+  <tr>
+
+    <td align="center" colSpan="4" lightBackgroundColor="#10B981">
+
+      <p><strong>Q4 2024 SALES REPORT</strong></p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="center">
+
+      <p><strong>Month</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Revenue</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Expenses</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Profit</strong></p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left">
+
+      <p>October</p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#D1FAE5">
+
+      <p>$125,000</p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#FEE2E2">
+
+      <p>$85,000</p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#D1FAE5">
+
+      <p>$40,000</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left">
+
+      <p>November</p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#D1FAE5">
+
+      <p>$142,500</p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#FEE2E2">
+
+      <p>$92,000</p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#D1FAE5">
+
+      <p>$50,500</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left">
+
+      <p>December</p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#D1FAE5">
+
+      <p>$168,000</p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#FEE2E2">
+
+      <p>$98,000</p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#D1FAE5">
+
+      <p>$70,000</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left" lightBackgroundColor="#FEF3C7">
+
+      <p><strong>TOTAL</strong></p>
+
+    </td>
+
+    <td align="right" colSpan="3" lightBackgroundColor="#FEF3C7">
+
+      <p><strong>$435,500</strong></p>
+
+    </td>
+
+  </tr>
+
+</table>
+
+## COMPLEX TABLE WITH BOTH ROW AND COLUMN SPANS
+
+<table isTableHeaderOn="true" columnWidths="180,180,180,180,180">
+
+  <tr>
+
+    <td align="center">
+
+      <p><strong>Project</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Phase</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Task</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Assignee</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Status</strong></p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left" rowSpan="4" lightBackgroundColor="#60A5FA">
+
+      <p><strong>Website Redesign</strong></p>
+
+    </td>
+
+    <td align="left" rowSpan="2" lightBackgroundColor="#A78BFA">
+
+      <p><strong>Planning</strong></p>
+
+    </td>
+
+    <td align="left">
+
+      <p>Requirements Gathering</p>
+
+    </td>
+
+    <td align="left">
+
+      <p>Alice</p>
+
+    </td>
+
+    <td align="center" lightBackgroundColor="#22C55E">
+
+      <p>Done</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left">
+
+      <p>Wireframe Design</p>
+
+    </td>
+
+    <td align="left">
+
+      <p>Bob</p>
+
+    </td>
+
+    <td align="center" lightBackgroundColor="#F59E0B">
+
+      <p>In Progress</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left" rowSpan="2" lightBackgroundColor="#34D399">
+
+      <p><strong>Development</strong></p>
+
+    </td>
+
+    <td align="left">
+
+      <p>Frontend Implementation</p>
+
+    </td>
+
+    <td align="left">
+
+      <p>Charlie</p>
+
+    </td>
+
+    <td align="center" lightBackgroundColor="#EF4444">
+
+      <p>Blocked</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left" colSpan="2">
+
+      <p>Backend API Development</p>
+
+    </td>
+
+    <td align="left">
+
+      <p>David</p>
+
+    </td>
+
+    <td align="center" lightBackgroundColor="#3B82F6">
+
+      <p>Not Started</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left" rowSpan="2" lightBackgroundColor="#F472B6">
+
+      <p><strong>Mobile App</strong></p>
+
+    </td>
+
+    <td align="left" colSpan="3" lightBackgroundColor="#FCD34D">
+
+      <p><strong>UI/UX Design Phase</strong></p>
+
+    </td>
+
+    <td align="center" lightBackgroundColor="#22C55E">
+
+      <p>Done</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left" colSpan="4" lightBackgroundColor="#FB7185">
+
+      <p><strong>Testing & QA - All Components</strong></p>
+
+    </td>
+
+  </tr>
+
+</table>
+
+## QUARTERLY PERFORMANCE TABLE
+
+<table isTableHeaderOn="true" columnWidths="150,150,150,150,200">
+
+  <tr>
+
+    <td align="center">
+
+      <p><strong>Region</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Q1</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Q2</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Q3</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Performance</strong></p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left" rowSpan="2" lightBackgroundColor="#6366F1">
+
+      <p><strong>North America</strong></p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#FEF3C7">
+
+      <p>$2.5M</p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#FEF3C7">
+
+      <p>$2.8M</p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#D1FAE5">
+
+      <p>$3.2M</p>
+
+    </td>
+
+    <td align="center" rowSpan="2" lightBackgroundColor="#22C55E">
+
+      <p><strong>Excellent</strong></p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="center" colSpan="3" lightBackgroundColor="#E0E7FF">
+
+      <p>Growth: +28% YoY</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left" rowSpan="2" lightBackgroundColor="#8B5CF6">
+
+      <p><strong>Europe</strong></p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#FEF3C7">
+
+      <p>$1.8M</p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#FEF3C7">
+
+      <p>$1.9M</p>
+
+    </td>
+
+    <td align="right" lightBackgroundColor="#FEE2E2">
+
+      <p>$1.7M</p>
+
+    </td>
+
+    <td align="center" rowSpan="2" lightBackgroundColor="#F59E0B">
+
+      <p><strong>Needs Attention</strong></p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="center" colSpan="3" lightBackgroundColor="#FEE2E2">
+
+      <p>Decline: -5.5% YoY</p>
+
+    </td>
+
+  </tr>
+
+</table>
+
+## SCHEDULE TABLE WITH MULTIPLE MERGES
+
+<table isTableHeaderOn="true" columnWidths="200,150,150,150,150">
+
+  <tr>
+
+    <td align="center" colSpan="5" lightBackgroundColor="#0EA5E9">
+
+      <p><strong>WEEKLY MEETING SCHEDULE</strong></p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="center">
+
+      <p><strong>Time</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Monday</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Tuesday</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Wednesday</strong></p>
+
+    </td>
+
+    <td align="center">
+
+      <p><strong>Thursday</strong></p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="center" rowSpan="2" lightBackgroundColor="#F3F4F6">
+
+      <p>9:00 AM</p>
+
+    </td>
+
+    <td align="left" lightBackgroundColor="#DBEAFE">
+
+      <p>Team Standup</p>
+
+    </td>
+
+    <td align="left" colSpan="2" lightBackgroundColor="#D1FAE5">
+
+      <p>Client Presentation</p>
+
+    </td>
+
+    <td align="left" lightBackgroundColor="#FCE7F3">
+
+      <p>1-on-1 Review</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="left" lightBackgroundColor="#FEF3C7">
+
+      <p>Sprint Planning</p>
+
+    </td>
+
+    <td align="left" lightBackgroundColor="#E0E7FF">
+
+      <p>Tech Review</p>
+
+    </td>
+
+    <td align="left" lightBackgroundColor="#FEF3C7">
+
+      <p>Backlog Grooming</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="center" lightBackgroundColor="#F3F4F6">
+
+      <p>2:00 PM</p>
+
+    </td>
+
+    <td align="left" colSpan="3" lightBackgroundColor="#FEE2E2">
+
+      <p>All-Hands Meeting</p>
+
+    </td>
+
+    <td align="left" lightBackgroundColor="#FCD34D">
+
+      <p>Demo Session</p>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td align="center" lightBackgroundColor="#F3F4F6">
+
+      <p>4:00 PM</p>
+
+    </td>
+
+    <td align="center" colSpan="4" lightBackgroundColor="#ECFDF5">
+
+      <p><strong>No Meetings - Focus Time</strong></p>
+
+    </td>
+
+  </tr>
+
+</table>
