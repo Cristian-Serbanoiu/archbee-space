@@ -1,9 +1,4 @@
----
-title: VERTICAL SPLIT SCENARIOS
-slug: split-scenarios
-createdAt: 2025-01-27T10:00:00.000Z
-updatedAt: 2025-01-27T10:00:00.000Z
----
+# VERTICAL SPLIT SCENARIOS
 
 # 📊 COMPARISON & SPLIT VIEW SCENARIOS
 
@@ -17,6 +12,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *Beverly Hills, CA*
 
 **SPECIFICATIONS:**
+
 - 5 Bedrooms, 4.5 Bathrooms
 - 4,200 sq ft
 - Built in 2018
@@ -24,6 +20,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 - 3-Car Garage
 
 **AMENITIES:**
+
 - Chef's Kitchen
 - Home Theater
 - Wine Cellar
@@ -44,7 +41,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ Competitive market
 ❌ Limited parking for guests
 ❌ HOA fees
-
 :::
 
 :::VerticalSplitItem
@@ -52,6 +48,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *Downtown LA, CA*
 
 **SPECIFICATIONS:**
+
 - 2 Bedrooms, 2 Bathrooms
 - 1,800 sq ft
 - Built in 2020
@@ -59,6 +56,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 - 1 Parking Space
 
 **AMENITIES:**
+
 - Open Floor Plan
 - Floor-to-Ceiling Windows
 - Rooftop Deck
@@ -79,7 +77,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ No private outdoor area
 ❌ HOA restrictions
 ❌ Street noise
-
 :::
 ::::
 
@@ -93,6 +90,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *Team Collaboration Platform*
 
 **KEY FEATURES:**
+
 - Task Management
 - Team Collaboration
 - Project Tracking
@@ -100,11 +98,13 @@ updatedAt: 2025-01-27T10:00:00.000Z
 - Time Tracking
 
 **PRICING:**
+
 - Free: Up to 15 users
 - Premium: $10.99/user/month
 - Business: $24.99/user/month
 
 **BEST FOR:**
+
 - Small to medium teams
 - Creative agencies
 - Marketing teams
@@ -121,7 +121,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ Basic Gantt charts
 ❌ No resource management
 ❌ Limited integrations
-
 :::
 
 :::VerticalSplitItem
@@ -129,6 +128,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *Work Operating System*
 
 **KEY FEATURES:**
+
 - Visual Project Management
 - Automation
 - Custom Workflows
@@ -136,12 +136,14 @@ updatedAt: 2025-01-27T10:00:00.000Z
 - Resource Management
 
 **PRICING:**
+
 - Basic: $8/user/month
 - Standard: $10/user/month
 - Pro: $16/user/month
 - Enterprise: Custom
 
 **BEST FOR:**
+
 - Large enterprises
 - Complex projects
 - Data-driven teams
@@ -158,7 +160,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ Expensive for small teams
 ❌ Can be overwhelming
 ❌ Limited free options
-
 :::
 ::::
 
@@ -172,12 +173,14 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *Full-Stack Development*
 
 **PROGRAM DETAILS:**
+
 - Duration: 12 weeks
 - Format: Full-time, In-person
 - Schedule: 9 AM - 6 PM, Mon-Fri
 - Class Size: 20-25 students
 
 **CURRICULUM:**
+
 - HTML/CSS/JavaScript
 - React.js
 - Node.js/Express
@@ -200,7 +203,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ Intense schedule
 ❌ Limited flexibility
 ❌ No part-time option
-
 :::
 
 :::VerticalSplitItem
@@ -208,12 +210,14 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *Software Engineering*
 
 **PROGRAM DETAILS:**
+
 - Duration: 15 weeks
 - Format: Full-time, Remote
 - Schedule: 9 AM - 5 PM, Mon-Fri
 - Class Size: 15-20 students
 
 **CURRICULUM:**
+
 - Ruby/Rails
 - JavaScript/React
 - Python/Django
@@ -236,7 +240,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ Very intensive
 ❌ Limited social interaction
 ❌ Requires self-discipline
-
 :::
 ::::
 
@@ -250,12 +253,14 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *PPO Plan*
 
 **COVERAGE DETAILS:**
+
 - Monthly Premium: $450
 - Annual Deductible: $2,000
 - Co-pay: $25 (Primary), $50 (Specialist)
 - Out-of-Pocket Max: $6,000
 
 **COVERAGE INCLUDES:**
+
 - Primary Care Visits
 - Specialist Visits
 - Emergency Room
@@ -264,6 +269,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 - Dental (Basic)
 
 **NETWORK:**
+
 - 95% of providers in-network
 - Nationwide coverage
 - No referrals needed
@@ -280,7 +286,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ Higher deductibles
 ❌ Co-pays required
 ❌ Limited dental
-
 :::
 
 :::VerticalSplitItem
@@ -288,12 +293,14 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *HMO Plan*
 
 **COVERAGE DETAILS:**
+
 - Monthly Premium: $350
 - Annual Deductible: $1,500
 - Co-pay: $20 (All visits)
 - Out-of-Pocket Max: $4,500
 
 **COVERAGE INCLUDES:**
+
 - Primary Care Visits
 - Specialist Visits
 - Emergency Room
@@ -302,6 +309,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 - Dental (Comprehensive)
 
 **NETWORK:**
+
 - Integrated system
 - Referrals required
 - Limited to Kaiser facilities
@@ -318,7 +326,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ Referrals required
 ❌ Geographic restrictions
 ❌ Less choice
-
 :::
 ::::
 
@@ -332,6 +339,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *Standard Range Plus*
 
 **SPECIFICATIONS:**
+
 - Range: 263 miles
 - 0-60 mph: 5.3 seconds
 - Top Speed: 140 mph
@@ -339,6 +347,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 - Charging: Supercharger network
 
 **FEATURES:**
+
 - Autopilot (Basic)
 - 15" Touchscreen
 - Over-the-air updates
@@ -360,7 +369,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ Expensive repairs
 ❌ Limited service centers
 ❌ No Apple CarPlay
-
 :::
 
 :::VerticalSplitItem
@@ -368,6 +376,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *Premier*
 
 **SPECIFICATIONS:**
+
 - Range: 259 miles
 - 0-60 mph: 6.5 seconds
 - Top Speed: 93 mph
@@ -375,6 +384,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 - Charging: CCS network
 
 **FEATURES:**
+
 - 10.2" Touchscreen
 - Apple CarPlay/Android Auto
 - Heated seats
@@ -396,7 +406,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ Limited fast charging
 ❌ Less tech features
 ❌ Smaller interior
-
 :::
 ::::
 
@@ -410,6 +419,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *Sony Entertainment*
 
 **SPECIFICATIONS:**
+
 - CPU: AMD Zen 2, 8-core
 - GPU: AMD RDNA 2, 10.3 TFLOPS
 - RAM: 16GB GDDR6
@@ -417,6 +427,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 - Resolution: 4K @ 120fps
 
 **EXCLUSIVE GAMES:**
+
 - Spider-Man: Miles Morales
 - Demon's Souls
 - Ratchet & Clank: Rift Apart
@@ -437,7 +448,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ Large size
 ❌ Expensive games
 ❌ No Game Pass equivalent
-
 :::
 
 :::VerticalSplitItem
@@ -445,6 +455,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *Microsoft Gaming*
 
 **SPECIFICATIONS:**
+
 - CPU: AMD Zen 2, 8-core
 - GPU: AMD RDNA 2, 12.1 TFLOPS
 - RAM: 16GB GDDR6
@@ -452,6 +463,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 - Resolution: 4K @ 120fps
 
 **EXCLUSIVE GAMES:**
+
 - Halo Infinite
 - Forza Horizon 5
 - Gears 5
@@ -472,7 +484,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ Less powerful GPU
 ❌ Game Pass dependency
 ❌ Limited VR support
-
 :::
 ::::
 
@@ -486,6 +497,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *Food Delivery Platform*
 
 **SERVICE FEATURES:**
+
 - Restaurant Partners: 500,000+
 - Delivery Time: 30-45 minutes
 - Delivery Fee: $2.99-$5.99
@@ -493,12 +505,14 @@ updatedAt: 2025-01-27T10:00:00.000Z
 - Minimum Order: $10
 
 **COVERAGE:**
+
 - 4,000+ cities
 - 50+ countries
 - 24/7 availability
 - Wide restaurant selection
 
 **PRICING:**
+
 - DashPass: $9.99/month
 - Free delivery on orders $15+
 - Reduced service fees
@@ -515,7 +529,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ Inconsistent delivery times
 ❌ Limited restaurant quality control
 ❌ Driver issues
-
 :::
 
 :::VerticalSplitItem
@@ -523,6 +536,7 @@ updatedAt: 2025-01-27T10:00:00.000Z
 *Food Delivery Service*
 
 **SERVICE FEATURES:**
+
 - Restaurant Partners: 300,000+
 - Delivery Time: 25-40 minutes
 - Delivery Fee: $1.99-$4.99
@@ -530,12 +544,14 @@ updatedAt: 2025-01-27T10:00:00.000Z
 - Minimum Order: $8
 
 **COVERAGE:**
+
 - 6,000+ cities
 - 45+ countries
 - 24/7 availability
 - Uber integration
 
 **PRICING:**
+
 - Uber Pass: $9.99/month
 - Free delivery on orders $15+
 - Reduced fees
@@ -552,6 +568,6 @@ updatedAt: 2025-01-27T10:00:00.000Z
 ❌ Limited coverage
 ❌ Higher service fees
 ❌ App issues
-
 :::
 ::::
+
