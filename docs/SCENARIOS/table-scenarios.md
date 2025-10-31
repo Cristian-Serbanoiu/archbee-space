@@ -445,6 +445,7 @@
     <td>
     </td>
     <td>
+      <p>this is a filled cell</p>
     </td>
     <td lightBackgroundColor="#A5F3FC">
     </td>
