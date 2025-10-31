@@ -410,8 +410,8 @@ updatedAt: 2025-01-28T10:00:00.000Z
     <td align="left" lightBackgroundColor="#FEF3C7" darkBackgroundColor="#C2410C">
       <p>Backlog Grooming</p>
     </td>
-    <td align="left">
-      <p></p>
+    <td align="left" lightBackgroundColor="#F9FAFB" darkBackgroundColor="#1F2937">
+      <p>&nbsp;</p>
     </td>
   </tr>
   <tr>
