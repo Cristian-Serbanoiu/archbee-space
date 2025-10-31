@@ -430,7 +430,7 @@
   </tr>
 </table>
 
-# ADDED MANUALLY FROM EDITOR
+## ADDED MANUALLY FROM EDITOR
 
 <table isTableHeaderOn="true" columnWidths="220,220,221">
   <tr>
@@ -473,47 +473,35 @@
 
 <table isTableHeaderOn="true" columnWidths="220,220,221">
   <tr>
-    <td darkBackgroundColor="#B91C1C" lightBackgroundColor="#EF4444">
-      <p></p>
-    </td>
-    <td>
-      <p></p>
+    <td darkBackgroundColor="#B91C1C" lightBackgroundColor="#EF4444" colSpan="2">
+      <p>Merged Columns</p>
     </td>
     <td>
       <p></p>
     </td>
   </tr>
   <tr>
-    <td>
-      <p></p>
+    <td rowSpan="2">
+      <p>Vertical Merge</p>
     </td>
     <td>
       <p>this is a filled cell</p>
     </td>
-    <td lightBackgroundColor="#A5F3FC">
-      <p></p>
+    <td lightBackgroundColor="#A5F3FC" rowSpan="2">
+      <p>Merged Rows</p>
     </td>
   </tr>
   <tr>
-    <td lightBackgroundColor="#C2410C">
-      <p></p>
-    </td>
     <td darkBackgroundColor="#14B8A6" lightBackgroundColor="#14B8A6">
       <p></p>
     </td>
-    <td darkBackgroundColor="#BBF7D0">
-      <p></p>
-    </td>
   </tr>
   <tr>
     <td>
       <p></p>
     </td>
-    <td>
-      <p></p>
-    </td>
-    <td>
-      <p></p>
+    <td darkBackgroundColor="#BBF7D0" colSpan="2">
+      <p>Horizontal Merge</p>
     </td>
   </tr>
 </table>
