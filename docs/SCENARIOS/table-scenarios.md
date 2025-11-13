@@ -1,6 +1,6 @@
-# TABLE SCENARIOS NEW
-
 # TABLE SCENARIOS
+
+# TABLE SCENARIOS NEW
 
 ## BASIC TABLE WITH HEADERS
 
@@ -383,7 +383,8 @@
   </tr>
   <tr>
     <td lightBackgroundColor="#F3F4F6" darkBackgroundColor="#374151" align="center" rowSpan="2">
-      <p>9</p><div></div> AM<p></p>
+      <p>AM</p>
+      <p>9</p>
     </td>
     <td lightBackgroundColor="#DBEAFE" darkBackgroundColor="#1E40AF" align="left">
       <p>Team Standup</p>
@@ -405,16 +406,13 @@
     <td lightBackgroundColor="#FEF3C7" darkBackgroundColor="#C2410C" align="left">
       <p>Backlog Grooming</p>
     </td>
-    <!-- <td lightBackgroundColor="#F9FAFB" darkBackgroundColor="#1F2937" align="left">
-      <p></p>
-    </td> -->
     <td align="left">
-      <p></p>
     </td>
   </tr>
   <tr>
     <td lightBackgroundColor="#F3F4F6" darkBackgroundColor="#374151" align="center">
-      <p>2</p><div></div> PM<p></p>
+      <p>PM</p>
+      <p>2</p>
     </td>
     <td lightBackgroundColor="#FEE2E2" darkBackgroundColor="#991B1B" align="left" colSpan="3">
       <p>All-Hands Meeting</p>
@@ -425,7 +423,8 @@
   </tr>
   <tr>
     <td lightBackgroundColor="#F3F4F6" darkBackgroundColor="#374151" align="center">
-      <p>4</p><div></div> PM<p></p>
+      <p>PM</p>
+      <p>4</p>
     </td>
     <td lightBackgroundColor="#ECFDF5" darkBackgroundColor="#14532D" align="center" colSpan="4">
       <p><strong>No Meetings - Focus Time</strong></p>
@@ -436,14 +435,6 @@
 ## ADDED MANUALLY FROM EDITOR
 
 <table isTableHeaderOn="true" columnWidths="220,220,221">
-  <tr>
-    <td darkBackgroundColor="#B91C1C" lightBackgroundColor="#EF4444">
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
   <tr>
     <td>
     </td>
@@ -456,7 +447,7 @@
   <tr>
     <td lightBackgroundColor="#C2410C">
     </td>
-    <td darkBackgroundColor="#14B8A6" lightBackgroundColor="#14B8A6">
+    <td lightBackgroundColor="#14B8A6" darkBackgroundColor="#14B8A6">
     </td>
     <td darkBackgroundColor="#BBF7D0">
     </td>
@@ -471,16 +462,14 @@
   </tr>
 </table>
 
-
 ## TABLE BUT EDITED IN VSCODE
 
 <table isTableHeaderOn="true" columnWidths="220,220,221">
   <tr>
-    <td darkBackgroundColor="#B91C1C" lightBackgroundColor="#EF4444" colSpan="2">
+    <td lightBackgroundColor="#EF4444" darkBackgroundColor="#B91C1C" colSpan="2">
       <p>Merged Columns</p>
     </td>
     <td>
-      <p></p>
     </td>
   </tr>
   <tr>
@@ -495,19 +484,15 @@
     </td>
   </tr>
   <tr>
-    <td darkBackgroundColor="#14B8A6" lightBackgroundColor="#14B8A6">
-      <p></p>
+    <td lightBackgroundColor="#14B8A6" darkBackgroundColor="#14B8A6">
     </td>
   </tr>
   <tr>
     <td>
-      <p></p>
     </td>
     <td darkBackgroundColor="#BBF7D0" colSpan="2">
       <p>Horizontal Merge</p>
     </td>
   </tr>
 </table>
-
-
 
