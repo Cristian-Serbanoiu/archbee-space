@@ -12,7 +12,7 @@
 
 Start your coding journey with our comprehensive beginner course covering HTML, CSS, and JavaScript fundamentals.
 
-**What You'll Learn:**
+**OMG I CHANGED THIS:**
 
 - Web development basics
 - Responsive design principles
